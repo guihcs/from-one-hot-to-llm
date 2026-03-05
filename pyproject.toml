@@ -1,0 +1,14 @@
+[project]
+name = "from-one-hot-to-llm"
+version = "0.1.0"
+description = "A comprehensive introduction to language models and modern AI, starting from the basics."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "notebook>=7.5.4",
+    "requests>=2.32.5",
+    "tqdm>=4.67.3",
+]
