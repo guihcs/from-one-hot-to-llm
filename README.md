@@ -14,6 +14,9 @@ This course provides a hands-on introduction to language modeling and AI, design
 
 Located in `chap0/markov.ipynb`, this foundational chapter covers the basic concepts of language modeling.
 
+### [Chapter 1: Deep Learning](https://github.com/guihcs/from-one-hot-to-llm/blob/main/chap1/deep.ipynb)
+
+Located in `chap1/deep.ipynb`, this chapter covers the basic concepts of Deep Learning and neural networks.
 
 ## 🛠️ Setup & Installation
 
