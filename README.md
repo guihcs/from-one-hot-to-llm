@@ -18,6 +18,10 @@ Located in `chap0/markov.ipynb`, this foundational chapter covers the basic conc
 
 Located in `chap1/deep.ipynb`, this chapter covers the basic concepts of Deep Learning and neural networks.
 
+### [Chapter 2: Neural Language Modeling](https://github.com/guihcs/from-one-hot-to-llm/blob/main/chap2/nlm.ipynb)
+
+Located in `chap2/nlm.ipynb`, this cover the basics of neural language modeling, including word embeddings and recurrent neural networks.
+
 ## 🛠️ Setup & Installation
 
 ### Prerequisites
