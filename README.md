@@ -22,6 +22,10 @@ Located in `chap1/deep.ipynb`, this chapter covers the basic concepts of Deep Le
 
 Located in `chap2/nlm.ipynb`, this cover the basics of neural language modeling, including word embeddings and recurrent neural networks.
 
+### [Chapter 3: Transformers](https://github.com/guihcs/from-one-hot-to-llm/blob/main/chap3/transformer.ipynb)
+
+Located in `chap3/transformer.ipynb`, this chapter covers the fundamentals of transformer architecture and its application in language modeling and other tasks.
+
 ## 🛠️ Setup & Installation
 
 ### Prerequisites
